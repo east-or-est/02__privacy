@@ -47,4 +47,4 @@ Derive Point-デフォルトモード-（以下「当サイト」といいます
 
 ## 問い合わせ先
 
-当リポジトリ内の[README]https://github.com/east-or-est/02__privacy を確認ください。
+当リポジトリ内の[README](https://github.com/east-or-est/02__privacy)を確認ください。
